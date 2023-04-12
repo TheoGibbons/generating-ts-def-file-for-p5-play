@@ -1,5 +1,5 @@
 # generating-ts-def-file-for-p5-play
-Generating a d.ts file from the p5.play library
+Generating a d.ts file for the https://p5play.org/ library
 How to use:
  1) Download https://raw.githubusercontent.com/quinton-ashley/p5play/main/p5play.js into the `play_raw.js` file
  2) Run the convert script `php convert.php` this will output `p5.play.js`
